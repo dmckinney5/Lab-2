@@ -1,7 +1,6 @@
 Lab-2
 =====
-
+Partner: Dan Matthews
 Repo for Lab 2
 
 Name: Dylan McKinney
-Title: Lab 2
